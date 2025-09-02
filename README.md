@@ -38,6 +38,8 @@ git clone https://github.com/vanshika280/SkillCraftTechnology_WD_Task2.git
 Navigate to the project folder:
 
 cd SkillCraftTechnology_WD_Task2
+
+
 Open index.html in your browser
 
 
