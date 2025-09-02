@@ -38,10 +38,12 @@ git clone https://github.com/vanshika280/SkillCraftTechnology_WD_Task2.git
 Navigate to the project folder:
 
 cd SkillCraftTechnology_WD_Task2
-
-
 Open index.html in your browser
+
+
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/563575bc-0075-4f1a-9694-c593d0f4f22e" />
+
+
 
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/796711f2-4772-441c-917b-b9a84029df98" />
 
